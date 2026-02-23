@@ -71,9 +71,9 @@ Develop strong problem-solving skills
 
 ### 📫 Let's Connect
 
-LinkedIn: 
+LinkedIn: https://www.linkedin.com/in/swoasti-bhattacharjee-1b2b59363/
 
-Email: 
+Email: bhattacharjeeswoasti@gmail.com
 <!--
 **Swoasti07/Swoasti07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
