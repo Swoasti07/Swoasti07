@@ -1,9 +1,7 @@
 # 👋 Hi there, I'm Swoasti Bhattacharjee
 
 🎓 CSE Student
-
 📊 Aspiring Data Analyst
-
 💡 Passionate about turning data into meaningful insights
 
 ---
@@ -15,11 +13,8 @@ I'm a Computer Science student who enjoys working with data and building interac
 Currently focusing on:
 
 📊 Data Analytics & Data Visualization
-
 🐍 Python for Data Analysis
-
 📈 SQL & Database Management
-
 🌐 Frontend Development with React
 
 I love exploring datasets, finding patterns, and presenting insights in a clear and impactful way.
@@ -28,32 +23,17 @@ I love exploring datasets, finding patterns, and presenting insights in a clear 
 
 ### 🛠 Tech Stack
 💻 Programming & Query Languages
-
 Python • JavaScript • MySQL • C
 
 📊 Data & Analytics
-
-Pandas • NumPy • Matplotlib • Seaborn (learning)
+Pandas • NumPy • Matplotlib • Seaborn 
+• Advanced SQL for Analytics • Power BI  •Tableau
 
 🌐 Web Development
-
 HTML • CSS • React • JavaScript
 
 🧰 Tools
-
 Git • GitHub • VS Code • Jupyter Notebook
-
----
-
-### 🌱 Currently Learning
-
-Advanced SQL for Analytics
-
-Data Cleaning & EDA techniques
-
-Power BI / Tableau (Data Visualization Tools)
-
-Statistics for Data Analysis
 
 ---
 
