@@ -1,7 +1,4 @@
 # 👋 Hi there, I'm Swoasti Bhattacharjee
-<p align="center">
-  <img src="./github-jet.svg" alt="GitHub Jet Heatmap" width="100%">
-</p>
 
 🎓 CSE Student
 📊 Aspiring Data Analyst
@@ -57,6 +54,9 @@ Develop strong problem-solving skills
 LinkedIn: https://www.linkedin.com/in/swoasti-bhattacharjee-1b2b59363/
 
 Email: bhattacharjeeswoasti@gmail.com
+<p align="center">
+  <img src="./github-jet.svg" alt="GitHub Jet Heatmap" width="100%">
+</p>
 <!--
 **Swoasti07/Swoasti07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
