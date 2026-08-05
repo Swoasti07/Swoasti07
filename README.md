@@ -1,4 +1,7 @@
 # 👋 Hi there, I'm Swoasti Bhattacharjee
+<p align="center">
+  <img src="./github-jet.svg" alt="GitHub Jet Heatmap" width="100%">
+</p>
 
 🎓 CSE Student
 📊 Aspiring Data Analyst
