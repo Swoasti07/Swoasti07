@@ -1,41 +1,48 @@
-# 👋 Hi there, I'm Swoasti Bhattacharjee
+<p align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=320&color=0:000000,50:020617,100:000000&text=SWOASTI%20BHATTACHARJEE&fontColor=FFFFFF&fontSize=60&fontAlignY=40&desc=Computer%20Science%20Engineer%20%7C%20Data%20Science%20Enthusiast%20%7C%20Problem%20Solver&descSize=24&descAlignY=68"/>
+</p>
 
-🎓 CSE Student
-📊 Aspiring Data Analyst
-💡 Passionate about turning data into meaningful insights
+[LinkedIn](https://www.linkedin.com/in/swoasti-bhattacharjee) •
+[Email](mailto:bhattacharjeeswoasti@gmail.com)
 
----
 
-### 🚀 About Me
+![](https://img.shields.io/badge/B.Tech-CSE_KIIT-6D28D9?style=for-the-badge)
 
-I'm a Computer Science student who enjoys working with data and building interactive web experiences.
+![](https://img.shields.io/badge/IIT_Madras-Data_Science-7C3AED?style=for-the-badge)
 
-Currently focusing on:
+![](https://img.shields.io/badge/CGPA-9.24-4F46E5?style=for-the-badge)
 
-📊 Data Analytics & Data Visualization
-🐍 Python for Data Analysis
-📈 SQL & Database Management
-🌐 Frontend Development with React
+![](https://img.shields.io/badge/AWS-Cloud_Foundations-312E81?style=for-the-badge)
 
-I love exploring datasets, finding patterns, and presenting insights in a clear and impactful way.
 
----
+## About Me
 
-### 🛠 Tech Stack
-💻 Programming & Query Languages
-Python • JavaScript • MySQL • C
+I am a Computer Science Engineering student at KIIT and a Data Science student at IIT Madras.
 
-📊 Data & Analytics
-Pandas • NumPy • Matplotlib • Seaborn 
-• Advanced SQL for Analytics • Power BI  •Tableau
+I enjoy building software solutions, working with data, and exploring Artificial Intelligence.
 
-🌐 Web Development
-HTML • CSS • React • JavaScript
+### Interests
 
-🧰 Tools
-Git • GitHub • VS Code • Jupyter Notebook
+- Data Analytics
+- Frontend Development
+- Machine Learning
+- Cloud Computing
+- Open Source
 
----
+
+## Tech Stack
+
+### Languages
+
+<img src="https://skillicons.dev/icons?i=python,java,cpp,c,javascript,sql"/>
+
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind"/>
+
+### Tools
+
+<img src="https://skillicons.dev/icons?i=aws,git,github,vscode"/>
 
 ### 🎯 Goals
 
@@ -48,12 +55,17 @@ Contribute to open-source
 Develop strong problem-solving skills
 
 ---
+## GitHub Analytics
 
-### 📫 Let's Connect
+<p align="center">
 
-LinkedIn: https://www.linkedin.com/in/swoasti-bhattacharjee-1b2b59363/
+<!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Swoasti07&show_icons=true&theme=tokyonight&hide_border=true"/> -->
 
-Email: bhattacharjeeswoasti@gmail.com
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Swoasti07&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+
 <p align="center">
   <img src="./github-jet.svg" alt="GitHub Jet Heatmap" width="100%">
 </p>
