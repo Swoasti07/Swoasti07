@@ -10,8 +10,6 @@
 
 ![](https://img.shields.io/badge/IIT_Madras-Data_Science-7C3AED?style=for-the-badge)
 
-![](https://img.shields.io/badge/CGPA-9.24-4F46E5?style=for-the-badge)
-
 ![](https://img.shields.io/badge/AWS-Cloud_Foundations-312E81?style=for-the-badge)
 
 
@@ -44,7 +42,7 @@ I enjoy building software solutions, working with data, and exploring Artificial
 
 <img src="https://skillicons.dev/icons?i=aws,git,github,vscode"/>
 
-### 🎯 Goals
+## Goals
 
 Build real-world data analytics projects
 
